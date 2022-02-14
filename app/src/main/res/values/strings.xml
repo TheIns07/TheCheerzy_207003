@@ -3,5 +3,11 @@
     <String name="button_start">Get Started.</String>
     <string name="welcome_text">Welcome to The Cheezery</string>
     <String name="welcome_description">Home of the most prettiest desserts ever seen!</String>
+    <String name="name">Name</String>
+    <String name="last_name">Last Name</String>
+    <String name="e_mail">E-Mail</String>
+    <String name="password">Password</String>
+    <String name="terms">I have read and accept terms and contitions.</String>
+    <String name="sing_in">Sing In!</String>
 
 </resources>
