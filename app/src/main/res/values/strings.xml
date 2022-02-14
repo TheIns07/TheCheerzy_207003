@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Cervantes_Practica4_207003</string>
+    <String name="button_start">Get Started.</String>
+    <string name="welcome_text">Welcome to The Cheezery</string>
+    <String name="welcome_description">Home of the most prettiest desserts ever seen!</String>
+
 </resources>
